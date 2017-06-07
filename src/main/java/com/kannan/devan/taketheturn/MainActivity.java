@@ -76,7 +76,7 @@ public class MainActivity extends FragmentActivity implements HomeFragment.OnBut
 
     FloatingActionButton mFloatingSubmitButton;
 
-    String GOOGLE_CLIENTID="871073188830-ul31h7k0b9f9v5tq3ash8kkm3tblhb0n.apps.googleusercontent.com";
+    String GOOGLE_CLIENTID="Your id";
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
