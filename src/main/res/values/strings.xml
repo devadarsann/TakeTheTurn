@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Take the Turn</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="take_the_turn">Take The Turn</string>
+    <string name="escape_from_traffic">Escape from Traffic</string>
+    <string name="con_failed">Connection failed! Please check your internet connection and try again</string>
+    <string name="cause_prompt">Reason for the block</string>
+</resources>

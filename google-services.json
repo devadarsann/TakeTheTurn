@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "871073188830",
+    "firebase_url": "https://taketheturn-5c0a1.firebaseio.com",
+    "project_id": "taketheturn-5c0a1",
+    "storage_bucket": "taketheturn-5c0a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871073188830:android:347453a024fa8bf1",
+        "android_client_info": {
+          "package_name": "com.kannan.devan.taketheturn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871073188830-9b8fn030bf2jjfvoh4o22nd0tvastfet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kannan.devan.taketheturn",
+            "certificate_hash": "C728314C9B6EE503D683845C7E6C181E40DFD69E"
+          }
+        },
+        {
+          "client_id": "871073188830-ul31h7k0b9f9v5tq3ash8kkm3tblhb0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY4-AYj2-L1N3xnFr_0J5Ju87jlqgOBwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871073188830-ul31h7k0b9f9v5tq3ash8kkm3tblhb0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
